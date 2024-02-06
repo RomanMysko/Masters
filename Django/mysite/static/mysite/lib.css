@@ -1,0 +1,361 @@
+body{margin: 0;}
+#texts{
+	box-sizing: border-box;
+	margin: 0 35%;
+    font-size: 125%;
+}
+h3{
+	text-align: center;
+}
+p.txt{
+	margin:0 0;
+	text-align: right;
+}
+p.txt1{
+	margin:0 0;
+	text-align: left;
+}
+h1{
+    padding-top:10%;
+	font-size: 270%;
+	font-family: 'Merienda', cursive;
+	text-align: center;
+}
+header{
+	height:90vh;
+	color:white;
+	background-image:url('images/back.jpg');
+	background-size: cover;
+ 	background-position: center;
+
+}
+.na{
+	margin:0 10px;
+}
+.navig{
+	padding-right: 15%;
+}
+.navigate{
+	padding-top: 20px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display:flex;
+	align-items:center;
+}
+.container{
+	max-width:1400px;
+	width:90%;
+	margin:auto;
+}
+.bord:hover{
+	background-color:rgba(255,255,255,0.9);
+	color:black;
+
+}
+.bord{
+	margin:10vh 16px;
+	border-radius: 7px;
+	padding: 5px;
+	border: 2px solid white;
+
+}
+header a{color:white;}
+.logo{
+float:left;
+color: #fff;
+margin-top:0.5%;
+padding-left: 15%;
+}
+.floatl{
+	float:left;
+	padding-left: 20%;
+	font-size: 90%;
+;
+}
+.floatr{
+	float:right;
+	padding-right: 20%;
+	font-size: 90%;
+}
+.contain{
+	margin-top: 23vh;
+	position: relative;
+}
+.intro{
+	height:30%;
+	text-align: center;
+	margin:160px 0px;
+}
+.photos{
+	float:left;
+	font-size: 150%;
+	height:20vh;
+	width:100%;
+	position: relative;
+}
+.foto{
+	max-height:300px;
+	width:25%;
+	height:400px;
+	float:left;
+	display: inline-block;
+	background-image:url('images/photo1.jpg');
+	background-size: 100% 100%;
+    background-position: center;
+    transition: all 1s;
+}
+.foto2:hover{
+    background-size: 120% 120%;
+    transition: 0.7s;
+}
+.foto3:hover{
+    background-size: 120% 120%;
+    transition: 0.7s;
+}
+.foto4:hover{
+    background-size: 120% 120%;
+    transition: 0.7s;
+}
+.foto:hover{
+    background-size: 120% 120%;
+    transition: 0.7s;
+}
+.foto2{
+	max-height:300px;
+	width:25%;
+	height:400px;
+	float:left;
+	display: inline-block;
+	background-image:url('images/photo2.jpg');
+	background-size: 100% 100%;
+    background-position: center;
+    transition: all 1s;
+}
+.foto3{
+	max-height:300px;
+	width:25%;
+	height:400px;
+	float:left;
+	display: inline-block;
+	background-image:url('images/photo3.jpg');
+	background-size: 100% 100%;
+    background-position: center;
+    transition: all 1s;
+}
+.foto4{
+	max-height:300px;
+	width:25%;
+	height:400px;
+	float:left;
+	display: inline-block;
+	background-image:url('images/photo4.jpg');
+	background-size: 100% 100%;
+    background-position: center;
+    transition: all 1s;
+}
+.text{
+background: rgba(39,41,64,.32);
+text-align:center;
+color:white;
+text-shadow:transparent;
+padding-left:10%;
+padding-top: 15%;
+}
+.right{
+	text-align:right;
+}
+.left{
+	text-align:left;
+}
+.Menu{
+	background-color:#8080803d;
+	height:145vh;
+}
+.men{
+	font-size: 160%;
+}
+.start{
+	float:left;
+	width:45%;
+}
+.end{
+	float:right;
+	width:45%;
+}
+.txt{
+	padding-top: 12px;
+	font-size: 120%
+
+}
+.txt1{
+	padding-top: 12px;
+	font-size: 120%
+
+}
+.post{
+	height:45vh;
+	width:100%;
+}
+#gg{
+	font-family: 'Merriweather', serif;
+	font-size: 140%;
+	padding-top: 7%;
+	text-align: center;
+}
+.first{
+	width: 16%;
+    height: 40%;
+    float: left;
+    padding-left: 18%;
+}
+.image1{
+	width: 100%;
+    height: 100%;
+
+}
+.image2{
+	width: 100%;
+    height: 100%;
+    margin:0 2px;
+}
+.image3{
+	width: 100%;
+    height: 100%;
+}
+.second{
+	width: 31.7%;
+    height: 81%;
+    float: left;
+    font-size: 110%;
+}
+.last{
+	width: 16%;
+    height: 40%;
+    float: right;
+    padding-right: 18%;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+.date{padding-left: 35%;
+}
+.reser{
+}
+.info{
+	text-align: center;
+}
+.info1{
+	padding-left: 5%;
+}
+.info2{
+	padding-left: 4%;
+}
+.info3{
+	padding-left: 2%;
+	padding-right: 10%;
+}
+.info4{
+	padding-left: 50px;
+}
+#but{
+  background-color: blue;
+  position: absolute;
+  width:120px;
+  height:50px;
+}
+#space{
+	height:70vh;
+}
+.footer{
+    margin-top:50px;
+	height:40vh;
+	background-color:#283142;
+}
+footer .first{
+	padding-top: 50px;
+	color:white;
+}
+h3.links{
+	color:white;
+	padding-right: 2%;
+}
+.links{
+	color:white;
+}
+a{
+	color:white;
+}
+a.links{
+	margin-top: 30px;
+}
+p.links{
+	margin:0 0!important;
+}
+.premier{
+	width:15%;
+	height:70%;
+	float:left;
+	padding-left: 23%;
+}
+.deuxieme{
+	width:15%;
+	height:70%;
+	float:left;
+	padding-left: 9%;
+}
+.troisieme{
+	width:20%;
+	height:70%;
+	float:left;
+	padding-left: 7%;
+}
+.media{
+	width:25px;
+	height:25px;
+}
+input{
+	border-radius: 6px;
+    background-color: white;
+    cursor: text;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+.fa{
+display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+}
+.line{
+	color:grey;
+	padding-left: 20%;
+	width:60%;
+	overflow:hidden;
+}
+.bottom{
+    margin-top: 3%;
+    border-top: 1px solid #3a455a;
+    text-align: center;
+}
+.vidstup{
+	padding-left: 10px;
+}
+#res_form{
+padding-left:34%;
+}
+#spice{
+padding-top:22%;
+}
+.wrapper {
+    text-align: center;
+}

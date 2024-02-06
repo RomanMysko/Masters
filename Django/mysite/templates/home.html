@@ -1,0 +1,39 @@
+{% load bootstrap5 %}
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home Page</title>
+  {% bootstrap_css %}
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="#">My Website</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <li class="nav-item">
+            <a class="nav-link" href="{% url 'logout' %}">Logout</a>
+            </li>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container mt-4">
+    <h1>{{ member.firstname }}  {{ member.lastname }} Welcome to the Home Page!</h1>
+
+    <p>Your Username in database: {{ member.username }}</p>
+    <p>Your Password in database: {{ member.password }}</p>
+    <p>AES Encrypted firstname in database: {{ member.firstnameAES }}</p>
+    <p>RSA Encrypted firstname in database: {{ member.usernameRSA }}</p>
+  </div>
+
+  {% bootstrap_javascript %}
+</body>
+</html>

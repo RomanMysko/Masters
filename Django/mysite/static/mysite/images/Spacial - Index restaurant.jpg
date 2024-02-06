@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)http://spacialtheme.herokuapp.com/3.0/index-restaurant.html# -->
+<html class=" js cssanimations" lang=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Spacial - Index restaurant</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+  <link rel="shortcut icon" href="http://spacialtheme.herokuapp.com/3.0/images/favicon.ico">
+
+  <!-- stylesheets -->
+  <link rel="stylesheet" type="text/css" href="./Spacial - Index restaurant_files/theme.min.css">
+
+  <!-- javascript -->
+  <script src="./Spacial - Index restaurant_files/jquery.min.js"></script>
+  <script src="./Spacial - Index restaurant_files/theme.min.js"></script>
+</head>
+<body>
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-restaurant bg-transparent" role="navigation">
+    <div class="container no-override">
+      <a class="navbar-brand" href="http://spacialtheme.herokuapp.com/3.0/index.html">
+        <img src="./Spacial - Index restaurant_files/logo-rest.png" class="d-inline mr-2">
+      </a>
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end" id="navbar-collapse">
+        <ul class="navbar-nav">
+          <li class="nav-item active dropdown">
+            <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Home pages
+              <i class="ion-chevron-down"></i>
+            </a>
+            <div class="dropdown-menu" role="menu">
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index.html">Business</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-app.html">Web app</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-features.html">Features showcase</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency.html">Creative agency</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-mobile.html">App showcase</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-mobile-2.html">App showcase 2</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-mobile-3.html">App showcase 3</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-mobile-4.html">App showcase 4</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-slider.html">Hero Slider</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-photography.html">Photography</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-dark.html">Dark background</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html">Restaurant</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-event.html">Event</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/index-video.html">Video background</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/intro.html">Intro</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Blogs
+              <i class="ion-chevron-down"></i>
+            </a>
+            <div class="dropdown-menu" role="menu">
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog.html">Blog list</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog-3-cols.html">Blog columns</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog-grid.html">Blog grid</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog-sidebar.html">Blog sidebar</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog-masonry.html">Blog masonry</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog-timeline.html">Blog timeline</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog-post.html">Single blog post</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog-post-alt.html">Single blog post 2</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/blog-post-3.html">Single blog post 3</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Pages
+              <i class="ion-chevron-down"></i>
+            </a>
+            <div class="dropdown-menu" role="menu">
+              <div class="dropdown dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" data-toggle="dropdown">
+                  About us
+                  <i class="ion-chevron-right"></i>
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-about.html">About us 1</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-about-2.html">About us 2</a>
+                </div>
+              </div>
+              <div class="dropdown dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" data-toggle="dropdown">
+                  Portfolio
+                  <i class="ion-chevron-right"></i>
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-portfolio-2.html">2 columns</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-portfolio-3.html">3 columns</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-portfolio-4.html">4 columns</a>
+                </div>
+              </div>
+              <div class="dropdown dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" data-toggle="dropdown">
+                  Contact
+                  <i class="ion-chevron-right"></i>
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-contact.html">Contact us 1</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-contact-2.html">Contact us 2</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-start-project.html">Contact us project</a>
+                </div>
+              </div>
+              <div class="dropdown dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" data-toggle="dropdown">
+                  Pricing
+                  <i class="ion-chevron-right"></i>
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/pricing-charts.html">Pricing charts</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/pricing-charts-2.html">Comparison charts</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/pricing.html">Package plans</a>
+                </div>
+              </div>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/agency-project.html">Project showcase</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/careers.html">Careers</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/career-post.html">Careers job post</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/support.html">Support</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/support-topic.html">Support topic</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/customers.html">Customer stories</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/customer-story.html">Single customer story</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/sign-up.html">Sign up</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/sign-in.html">Sign in</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/recover-password.html">Recover password</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/timeline.html">Timeline</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/coming-soon.html">Coming soon</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/api-docs.html">API docs</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Features
+              <i class="ion-chevron-down"></i>
+            </a>
+            <div class="dropdown-menu" role="menu">
+              <div class="dropdown dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" data-toggle="dropdown">
+                  Headers
+                  <i class="ion-chevron-right"></i>
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-light.html">Light</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-dark.html">Dark</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-transparent-light.html">Transparent light</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-transparent-dark.html">Transparent dark</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-transparent-fixed-light.html">Transparent fixed light</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-transparent-fixed-dark.html">Transparent fixed dark</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-off-canvas-collapse.html">Off-canvas collapse</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-off-canvas-left.html">Sidebar left</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-off-canvas-right.html">Sidebar right</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-navleft.html">Navbar left</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-dark-submenu.html">Dark submenu</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-fixed-bottom.html">Bottom fixed</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-logo-center.html">Logo center</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-all-center.html">All center</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-full-width.html">Full width</a>
+                </div>
+              </div>
+              <div class="dropdown dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" data-toggle="dropdown">
+                  Footers
+                  <i class="ion-chevron-right"></i>
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/header-light.html#footer">Dark</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/footer-light.html#footer">Light</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/footer-big-menu.html#footer">Big Menu</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/footer-sign-up.html#footer">Sign up</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/footer-agency.html#footer">Agency</a>
+                </div>
+              </div>
+              <div class="dropdown dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" data-toggle="dropdown">
+                  Covers
+                  <i class="ion-chevron-right"></i>
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/cover-panorama.html">Panorama View</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/cover-360.html">360º Image</a>
+                </div>
+              </div>
+              <div class="dropdown dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" data-toggle="dropdown">
+                  Email templates
+                  <i class="ion-chevron-right"></i>
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/email-template-newsletter.html" target="_blank">
+                    Newsletter
+                    <i class="ion-share"></i>
+                  </a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/email-template-receipt.html" target="_blank">
+                    Receipt
+                    <i class="ion-share"></i>
+                  </a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/email-template-announcement.html" target="_blank">
+                    Simple announcement
+                    <i class="ion-share"></i>
+                  </a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/email-template-text.html" target="_blank">
+                    Formal text
+                    <i class="ion-share"></i>
+                  </a>
+                </div>
+              </div>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/grid-system.html">Grid system</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/animations.html">Animations</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/typography.html">Typography</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown dropdown-extend">
+            <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Components
+              <i class="ion-chevron-down"></i>
+            </a>
+            <div class="dropdown-menu dropdown-extend-menu" role="menu">
+              <div class="row">
+                <div class="col-md-3">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/alerts.html"><i class="ion-alert-circled"></i> Alerts</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/animations.html"><i class="ion-wand"></i> Animations</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/badges.html"><i class="ion-ios-pricetag-outline"></i> Badges</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/buttons.html"><i class="ion-ios-paperplane"></i> Buttons</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/button-groups.html"><i class="ion-ios-browsers"></i> Button groups</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/cards.html"><i class="ion-ios-albums-outline"></i> Cards</a>
+                </div>
+                <div class="col-md-3">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/carousel.html"><i class="ion-android-arrow-dropright-circle"></i> Carousel</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/accordion.html"><i class="ion-navicon"></i> Accordion</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/cta.html"><i class="ion-funnel"></i> Call to action</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/dropdowns.html"><i class="ion-arrow-down-b"></i> Dropdowns</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/forms.html"><i class="ion-clipboard"></i> Forms</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/input-groups.html"><i class="ion-toggle"></i> Input groups</a>
+                </div>
+                <div class="col-md-3">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/icons.html"><i class="ion-social-octocat"></i> Icons</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/list-groups.html"><i class="ion-ios-list-outline"></i> List groups</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/modals.html"><i class="ion-monitor"></i> Modals</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/navs.html"><i class="ion-navigate"></i> Navs</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/navbars.html"><i class="ion-navicon-round"></i> Navbars</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/plugins.html"><i class="ion-compose"></i> New plugins</a>
+                </div>
+                <div class="col-md-3">
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/progress.html"><i class="ion-stats-bars d-inline-block" style="transform: rotate(90deg);"></i> Progress bars</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/stats-cards.html"><i class="ion-arrow-graph-up-right"></i> Stats cards</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/tables.html"><i class="ion-grid"></i> Tables</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/typography.html"><i class="ion-paintbrush"></i> Typography</a>
+                  <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/docs/datepicker.html"><i class="ion-calendar"></i> Datepicker</a>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Shop
+              <i class="ion-chevron-down"></i>
+            </a>
+            <div class="dropdown-menu" role="menu">
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/index.html">Home page</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/collection-grid.html">Products grid</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/collection-list.html">Products list</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/collection-grid-sidebar.html">Products grid w/ sidebar</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/collection-list-sidebar.html">Products list w/ sidebar</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/product.html">Single product</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/cart.html">Cart</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/search.html">Search results</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/checkout.html">Checkout</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/checkout-payment.html">Checkout ship &amp; payment</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/checkout-confirmation.html">Checkout confirmation</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/account-orders.html">My account order history</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/account-wishlist.html">My account wishlist</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/account-profile.html">My account profile</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/account-invoice.html">Order invoice</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/sign-up.html">Sign up</a>
+              <a class="dropdown-item" href="http://spacialtheme.herokuapp.com/3.0/ecommerce/sign-in.html">Sign in</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link nav-link--rounded" href="http://spacialtheme.herokuapp.com/3.0/docs/intro.html">Theme Docs</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="restaurant-header">
+    <section class="intro customFadeInUp">
+      <h1>
+        The Spacial stout
+      </h1>
+      <p>
+        Comfort Beer &amp; Grill
+      </p>
+    </section>
+    <section class="bottom customFadeInUp">
+      <div class="container">
+        <div class="float-left">
+          56 Avenue South, Ireland 66490
+        </div>
+        <div class="float-right">
+          Breakfast &amp; Dinner
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="restaurant-intro">
+    <h2>
+      Comfort meets friendship
+    </h2>
+    <p>
+      Spacial has both a web app and an android app to make your website easy and always available. It offers you all the designs in collaboration with some smart people. Your projects will look great everywhere you go. Use new components that come included for everyone.
+    </p>
+  </div>
+
+  <div class="restaurant-grid clearfix">
+    <div class="banner">
+      <div class="bg" style="background-image: url(&#39;images/restaurant/hnck5688.jpg&#39;);"></div>
+      <section>
+        <div class="title">
+          Breakfast &amp; Lunch
+        </div>
+        <p>
+          Available all day
+        </p>
+      </section>
+    </div>
+    <div class="banner">
+      <div class="bg" style="background-image: url(&#39;images/restaurant/06.jpg&#39;);">
+      </div>
+      <section>
+        <div class="title">
+          Homemade coffee
+        </div>
+        <p>
+          Available mornings
+        </p>
+      </section>
+    </div>
+    <div class="banner">
+      <div class="bg" style="background-image: url(&#39;images/restaurant/hnck5665.jpg&#39;);">
+      </div>
+      <section>
+        <div class="title">
+          Seasoned Healthy Juice
+        </div>
+        <p>
+          Available all day
+        </p>
+      </section>
+    </div>
+    <div class="banner">
+      <div class="bg" style="background-image: url(&#39;images/restaurant/05.jpg&#39;);">
+      </div>
+      <section>
+        <div class="title">
+          Fresh vegetables
+        </div>
+        <p>
+          Available all day
+        </p>
+      </section>
+    </div>
+  </div>
+
+  <div class="restaurant-menu">
+    <div class="container">
+      <h1>Our menu</h1>
+
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <div class="menu-section">
+            <h3>To start</h3>
+            <p>
+              $7 - Guacamole &amp; chips
+            </p>
+            <p>
+              $9 - Chicken wings
+            </p>
+            <p>
+              $7 - Garlic noodles
+            </p>
+            <p>
+              $9 - Sirloin tacos
+            </p>
+          </div>
+          <div class="menu-section">
+            <h3>Salads</h3>
+            <p>
+              $13 - Caesar salad
+            </p>
+            <p>
+              $10 - Bacon &amp; cheese salad
+            </p>
+            <p>
+              $10 - Shrimp salad
+            </p>
+            <p>
+              $11 - Seafood salad
+            </p>
+          </div>
+          <div class="menu-section">
+            <h3>Desserts</h3>
+            <p>
+              $7 - Banana Ice cream
+            </p>
+            <p>
+              $5 - Cheesecase
+            </p>
+            <p>
+              $5 - Sweet potatoes
+            </p>
+            <p>
+              $5 - Strawberry ice cream
+            </p>
+            <p>
+              $5 - Brownies
+            </p>
+          </div>
+          <div class="menu-section">
+            <h3>Sides</h3>
+            <p>
+              $7 - Grilled carrots
+            </p>
+            <p>
+              $5 - Mashed potatoes
+            </p>
+            <p>
+              $5 - Fried sprouts
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="menu-section">
+            <h3>Hard dish</h3>
+            <p>
+              $24 - Roasted Salmon
+            </p>
+            <p>
+              $15 - Grilled Lamb
+            </p>
+            <p>
+              $18 - Smoked Chicken
+            </p>
+            <p>
+              $20 - Sirloin Burger
+            </p>
+            <p>
+              $15 - BBQ Ribs
+            </p>
+            <p>
+              $15 - Grilled Pork Loin
+            </p>
+            <p>
+              $20 - Grilled cheese burger
+            </p>
+            <p>
+              $15 - 500g Steak
+            </p>
+          </div>
+          <div class="menu-section">
+            <h3>Beer</h3>
+            <p>
+              $4 - Newcastle brown ale
+            </p>
+            <p>
+              $5 - Hobgoblin ale
+            </p>
+            <p>
+              $6 - Duvel
+            </p>
+            <p>
+              $5 - La Chouffe
+            </p>
+            <p>
+              $5 - Stella Artois
+            </p>
+          </div>
+          <div class="menu-section">
+            <h3>Wine</h3>
+            <p>
+              $7 - Fancy pants
+            </p>
+            <p>
+              $8 - Ohh La La
+            </p>
+            <p>
+              $10 - Thorny Rose
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="restaurant-gallery">
+    <h1>
+      Full of great moments
+    </h1>
+    <div class="container">
+      <div class="gallery">
+        <div class="row">
+          <div class="col-md-3">
+            <div style="vertical-align: baseline; font: 400 16px/24px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; margin: 0px 0px 25px; bottom: auto; right: auto; left: auto; top: auto; float: none; display: block; position: static; visibility: hidden; width: 237.5px; height: 210px;">
+            </div>
+            <div class="bg-img" style="background-image: url(&quot;images/unsplash/qwbobpeoxjo-josh-rose.jpg&quot;); width: 100%; cursor: -webkit-zoom-in;" data-trigger="zoomerang">
+            </div>
+          <div style="position: fixed; display: block; z-index: 99998; top: 0px; left: 0px; right: 0px; bottom: 0px; opacity: 1; background-color: rgb(255, 255, 255); cursor: -webkit-zoom-out; transition: opacity 0.4s cubic-bezier(0.4, 0, 0, 1) 0s;"></div><div style="position: fixed; z-index: 99999; top: 50%; left: 50%; width: 237px; height: 210px;"><div class="bg-img" style="background-image: url(&quot;images/unsplash/xg157kdwbpq-rob-bye.jpg&quot;); width: 100%; cursor: -webkit-zoom-out; position: absolute; top: 0px; left: 0px; white-space: nowrap; margin-top: -105px; margin-left: -118.75px; transform: scale(3.47619); transition: -webkit-transform 0.4s cubic-bezier(0.4, 0, 0, 1) 0s;" data-trigger="zoomerang">
+            </div></div></div>
+          <div class="col-md-6">
+            <div class="bg-img" style="background-image: url(&quot;images/unsplash/rygidtavhkq-dave-lastovskiy.jpg&quot;); width: 100%; cursor: -webkit-zoom-in;" data-trigger="zoomerang">
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="bg-img" style="background-image: url(&quot;images/unsplash/jkmnm3cincw-yutacar.jpg&quot;); width: 100%; cursor: -webkit-zoom-in;" data-trigger="zoomerang">
+            </div>
+            <div class="bg-img" style="background-image: url(&quot;images/unsplash/e6hjqab7uea-dan-gold.jpg&quot;); width: 100%; cursor: -webkit-zoom-in;" data-trigger="zoomerang">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="restaurant-reservation">
+    <h1>
+      Make a reservation
+    </h1>
+    <div class="container">
+      <form>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="form-group">
+              <label>Date of your visit</label>
+              <input type="text" class="form-control" id="datepicker">
+            </div>
+            <div class="form-group">
+              <label>Your name</label>
+              <input type="text" class="form-control">
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <label>Time</label>
+              <input type="text" class="form-control">
+            </div>
+            <div class="form-group">
+              <label>Your email</label>
+              <input type="text" class="form-control">
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <label>Party size</label>
+              <input type="text" class="form-control">
+            </div>
+            <div class="form-group">
+              <label>Your phone</label>
+              <input type="text" class="form-control">
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-end">
+          <div class="col-md-4">
+            <input type="submit" value="Book a table" class="btn-shadow btn-shadow-primary">
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="title">
+            About spacial
+          </div>
+          <ul class="menu">
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">Home Pages</a>
+            </li>
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">Theme Features</a>
+            </li>
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">Services</a>
+            </li>
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">StoreFront</a>
+            </li>
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">Portfolio</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <div class="title">
+            Connect with us
+          </div>
+          <ul class="menu">
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">
+                <i class="fa fa-instagram"></i>
+                Instagram
+              </a>
+            </li>
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">
+                <i class="fa fa-twitter"></i>
+                Twitter
+              </a>
+            </li>
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">
+                <i class="fa fa-dribbble"></i>
+                Dribbble
+              </a>
+            </li>
+            <li>
+              <a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">
+                <i class="fa fa-facebook"></i>
+                Facebook
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4 newsletter">
+          <div class="title">
+            Get awesome updates
+          </div>
+          <p>
+            Enter your email address for news and product launches in the Awesome Space.
+          </p>
+
+          <form class="newsletter-form" autocomplete="off" novalidate="true">
+            <input type="email" id="mc-email" class="form-control" placeholder="Email address" required="" name="EMAIL">
+
+            <button type="submit">
+              <i class="fa fa-chevron-right"></i>
+            </button>
+            <label for="mc-email" class="text-white newsletter-feedback mt-3"></label>
+          </form>
+        </div>
+      </div>
+      <div class="bottom">
+        <ul>
+          <li><a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">Privacy</a></li>
+          <li><a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">Legal</a></li>
+          <li><a href="http://spacialtheme.herokuapp.com/3.0/index-restaurant.html#">Language</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <script type="text/javascript">
+    $(function () {
+      var picker = new Pikaday({ field: document.getElementById('datepicker') });
+    })
+  </script>
+
+
+  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+  <script>
+    // (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+    // function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+    // e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+    // e.src='//www.google-analytics.com/analytics.js';
+    // r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+    // ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+  </script>
+
+<div class="pika-single is-hidden is-bound" style="position: static; left: auto; top: auto;"></div></body></html>
